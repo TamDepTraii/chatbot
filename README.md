@@ -17,6 +17,7 @@ Your goal is to help Tâm Lê achieve a high band score.
 ```
 
 ## 2. Giao diện Chatbot
+![Uploading image.png…]()
 
 Giao diện khi sử dụng và Chat cùng chatbot
 
